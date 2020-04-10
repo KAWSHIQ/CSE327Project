@@ -1,5 +1,6 @@
 # CSE327Project
-Prerequisite:
+
+Pre-requisite:
 •	Operating system: Windows 10/ Linux
 •	Apache
 •	PHP 
@@ -8,6 +9,7 @@ Prerequisite:
 •	Bootstrap framework
 •	Microsoft Visual Studio code/ Sublime text
 •	Xampp
+
 Installation steps:
 1.	First install Xampp and open it’s control panel and start Apache and MySQL .
 2.	Go to Admin of MySQL and connect/import the SQL file to the database using phpMyAdmin.
