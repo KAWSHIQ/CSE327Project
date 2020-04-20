@@ -38,7 +38,7 @@ Then when the task of their part are done, user can logout from the session.
  After their work done, then can log out from the system. In the database, the system secures all the information encrypted. So no chances of system makers or admins to see other person's password.
  
 ## Credits
-  As this project is a final project for our course CSE- 327, it's our honor to work under the supervision of our respected Faculty Supervisor Dr. Md. Mushfique Anwar. Without his guidance this project wouldn't have been possible. Heartiest respect and love for our group members who tried to work under differences situations. 
+  As this project is a final project for our course CSE- 327, it's our honor to work under the supervision of our respected Faculty Supervisor Dr. Md. Mushfique Anwar. Without his guidance this project wouldn't have been possible. Heartiest respect and love for our group members who tried to work under different situations. 
   
   ### Team name: THE FOUR HORSEMEN
   #### Team Members:
